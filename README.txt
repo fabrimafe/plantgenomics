@@ -7,4 +7,4 @@
 #----------------list of databases-----------
 
 #Tomato:
-avylevy/Collaboration/Razifard2020
+avylevy/Collaboration/Razifard2020: -> check which lineages are devoid of introgression
